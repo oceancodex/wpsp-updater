@@ -1,13 +1,13 @@
 {
 	"name": "oceancodex/wpsp-updater",
-	"version": "8.2.0",
+	"version": "8.3.0",
 	"description": "WordPress Starter Plugin - Updater",
 	"keywords": [
 	],
 	"license": "MIT",
 	"require": {
-		"php": "^8.2",
-		"yahnis-elsts/plugin-update-checker": "^v5.4"
+		"php": "^8.3",
+		"yahnis-elsts/plugin-update-checker": "^v5.6"
 	},
 	"config": {
 		"sort-packages": true
